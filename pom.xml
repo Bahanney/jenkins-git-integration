@@ -14,16 +14,6 @@
       <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
-    <dependencies>
-    <!-- Mockito Dependency -->
-    <dependency>
-        <groupId>org.mockito</groupId>
-        <artifactId>mockito-core</artifactId>
-        <version>4.11.0</version>
-        <scope>test</scope>
-    </dependency>
-</dependencies>
-
   </dependencies>
   <build>
     <finalName>jenkins-git-integration</finalName>
